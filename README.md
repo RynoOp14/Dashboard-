@@ -1,9 +1,12 @@
 📊 Sales Analysis Dashboard – Power BI
+
 🧑‍💼 Created by: Ujwal Rathod
+
 📁 Project Overview
 This project focuses on creating a Sales Performance Dashboard using Microsoft Power BI with the Sample Superstore dataset. The dashboard provides interactive insights into the company’s sales, profit, and performance across regions, time, and customer segments.
 
 📌 Key Features
+
 ✅ KPIs Tracked:
 
 Total Sales
@@ -25,6 +28,7 @@ Sales Target vs Actual
 🧭 User-friendly layout and navigation for clear storytelling
 
 🗂 Dataset Used
+
 Name: Sample - Superstore.csv
 
 Source: Kaggle / Microsoft sample
@@ -42,6 +46,7 @@ Product Name, Category
 Sales Target (custom column added manually)
 
 📌 Visuals Used in Dashboard
+
 Visual Type	Purpose
 KPI Cards	To show Total Sales & Profit
 KPI with Trend	To show Sales vs Target performance
@@ -51,6 +56,7 @@ Bar Chart	Product-wise Sales distribution
 Slicer	Filter by Region (Central, East, etc.)
 
 🔧 Tools & Techniques
+
 Microsoft Power BI Desktop
 
 DAX for calculated columns (e.g., SalesTarget)
@@ -60,6 +66,7 @@ Formatting options (fonts, colors, backgrounds)
 Interactive Filters and Drill-through setup
 
 📈 How to Use
+
 Open the .pbix file in Power BI Desktop.
 
 Use slicers to filter visuals by Region.
